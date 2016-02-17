@@ -29,7 +29,7 @@
     but1.backgroundColor = [UIColor redColor];
     [self.view addSubview:but1];
     
-    
+    //github 上传项目
     UIButton *but = [UIButton buttonWithType:UIButtonTypeSystem];
     but.frame = CGRectMake(0, 50, 320, 40);
     but.tag = 2;
